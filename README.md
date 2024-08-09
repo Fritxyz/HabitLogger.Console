@@ -50,7 +50,11 @@ When you run the application, you'll be presented with a menu:
 
 ### Database
 
-The application uses an SQLite database to store the data. 
+The application uses an SQLite database to store the data. he database file is located at:
+
+```plaintext
+D:\Programming Outputs\C# Academy\HabitLogger.Console\HabitLogger.Demo\habit-tracker.db
+```
 
 You can modify the connection string in the `DataAccessLayer` class if you wish to change the database location.
 
