@@ -23,7 +23,7 @@ This is a simple console application built with .NET 8, C#, and SQLite. It allow
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/HabitLogger.git
+   git clone https://github.com/fritxyz/HabitLogger.git
    cd HabitLogger
    ```
 
