@@ -1,6 +1,3 @@
-Here's a `README.md` template for your console application built with .NET 8, C#, SQLite, and the Spectre.Console package:
-
-```markdown
 # HabitLogger Console Application
 
 This is a simple console application built with .NET 8, C#, and SQLite. It allows users to log and manage their study hours, with options to view, insert, update, and delete data. The Spectre.Console package is used for improved console output formatting.
