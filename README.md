@@ -23,8 +23,7 @@ This is a simple console application built with .NET 8, C#, and SQLite. It allow
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/fritxyz/HabitLogger.git
-   cd HabitLogger
+   git clone https://github.com/fritxyz/HabitLogger.Clone.git
    ```
 
 2. Restore dependencies:
